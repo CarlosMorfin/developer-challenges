@@ -43,6 +43,7 @@ Los shows deben poder marcarse como "favoritos" y persistirlo para que al cambia
 - Mientras mas pruebas añadadas, mejor.
 - Uso de Redux como manejador de estados.
 - Atomic Design.
+- Implementación de Server Side Rendering.
 - Lazy loading.
 - Campos extra que añada valor al detalle del show.
 - Comentarios en el código.
