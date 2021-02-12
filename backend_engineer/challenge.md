@@ -9,7 +9,9 @@ No quieres cargar toda esta funcionalidad en la aplicación ​A​, por lo que 
 ## Objetivo
 
 Generar una aplicación en Ruby que sea capaz de obtener el estado de rastreo de los envíos y compartir la
-información de rastreo con la aplicación ​A. Consideraciones:
+información de rastreo con la aplicación ​A.
+
+## Consideraciones
 
 - La aplicación ​B​ debe se capaz de compartir la información de rastreo a la aplicación ​A​ de forma asíncrona.
 - Las paqueterías catalogan los estados de rastreo en diferentes categorías, por ejemplo, para Fedex un paquete entregado puede ser _Delivered_ mientras que para UPS puede ser _Completed_,
